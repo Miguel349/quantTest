@@ -1,0 +1,14 @@
+.env
+AnalyticalTest/csvs/**/*.csv
+AnalyticalTest/csvs/*.csv
+/AnalyticalTest/csvs/marketData/aggTradesBinance_BNBUSDT_clean.csv
+/AnalyticalTest/csvs/marketData/market1inchFlowBNBUSDT.csv
+/AnalyticalTest/csvs/marketData/market1inchIntentFlowBNBUSDT.csv
+/AnalyticalTest/csvs/raw/
+/AnalyticalTest/csvs/raw/1inchFlowBNBUSDT.csv
+/AnalyticalTest/csvs/raw/1inchIntentFlowBNBUSDT.csv
+/AnalyticalTest/csvs/raw/01JDFAWT4XT8KPAE02P93J72RP.csv
+/AnalyticalTest/csvs/raw/01JDFB137QF0WKWGHHEJWWG66Z.csv
+/AnalyticalTest/csvs/raw/aggTradesBinance_BNBUSDT.csv
+/AnalyticalTest/csvs/raw/priceActionBinance_BNBUSDT.csv
+/AnalyticalTest/csvs/mostTradedAssets.csv
